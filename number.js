@@ -8,3 +8,9 @@ console.log(typeof orangePrice);
 console.log(applePrice);
 console.log(typeof applePriceBd);
 console.log(typeof carrot);
+var orangePrice = 50;
+// var applePrice = parseInt('40');
+var applePrice = parseFloat('hhghgh');
+
+console.log(orangePrice + applePrice);
+console.log(typeof applePrice);
