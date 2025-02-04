@@ -1,4 +1,10 @@
 var orangePrice = 40;
-var applePrice = parseInt('30');
-var carrot = 5.6;
+var applePrice = parseInt('sdhdgfgh;');
+var applePrice = parseFloat('10.5');
+var applePriceBd = parseInt('29');
+var carrot = 0.5;
 console.log(applePrice + carrot);
+console.log(typeof orangePrice);
+console.log(applePrice);
+console.log(typeof applePriceBd);
+console.log(typeof carrot);
