@@ -12,5 +12,11 @@ var orangePrice = 50;
 // var applePrice = parseInt('40');
 var applePrice = parseFloat('hhghgh');
 
-console.log(orangePrice + applePrice);
-console.log(typeof applePrice);
+// console.log(orangePrice + applePrice);
+// console.log(typeof applePrice);
+
+var first = 0.1;
+var second = 0.2;
+var total = first + second;
+// console.log(total.toFixed(2));
+
