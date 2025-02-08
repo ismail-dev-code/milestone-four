@@ -1,4 +1,4 @@
-const score = 30;
+const score = 40;
 if (score > 80) {
   console.log("go for lunch");
 } else {
