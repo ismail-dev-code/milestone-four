@@ -1,0 +1,12 @@
+const address = "andorlilla";
+const part = address.slice(2, 5);
+// console.log(part);
+const sentence = "I am a hard working person, i am very serious.";
+// console.log(sentence.split(" "));
+const friensStr = "rahim, karim, abulm, suman,abal";
+const friends = friensStr.split(",");
+console.log(friends);
+const realFriends = ["rahim", " karim", " abulm", " suman", "abal"];
+console.log(realFriends.join('|'));
+console.log(realFriends.join('-'));
+console.log(realFriends.join('+'));

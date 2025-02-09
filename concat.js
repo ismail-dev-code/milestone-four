@@ -1,0 +1,10 @@
+// const friends = ["rahim", " karim", " abulm", " suman", "abal"];
+// const numbers = [23, 3, 5456, , 7, 68, 8, 79, , 89, 98, 890, 8];
+// const joraDilam = friends + ' ' + numbers;
+// console.log(joraDilam);
+const first = "faisal";
+const last = "haque";
+const fullName = first + " " + last;
+// console.log(fullName);
+const fullName2 = first.concat(' ').concat(last);
+console.log(fullName2);
