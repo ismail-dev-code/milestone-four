@@ -1,5 +1,5 @@
 let i = 1;
-while (i < 300) {
+while (i) {
   i++;
   if (i > 100) {
     break;
