@@ -1,5 +1,5 @@
 let times = 0;
-while (times <= 60) {
+while (times < 60) {
   times++;
   console.log("I will invest at least 6 hrs every single day for 60 days.", times);
 }

@@ -1,6 +1,6 @@
 let odd = 60;
 
-while (odd < 100) {
+while (odd <= 100) {
   odd++;
   if (odd % 2 === 1) {
     console.log("odd number is:", odd);
